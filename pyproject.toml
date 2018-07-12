@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "annuaire-sante-api"
+version = "0.1.0"
+description = "API d'accès  annuaire santé"
+authors = ["jgirardet <ijkl@netc.fr>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+falcon = "^1.4"
+pony = "^0.7.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"

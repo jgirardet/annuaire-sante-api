@@ -1,0 +1,114 @@
+en activité
+
+Type d'identifiant PP
+Identifiant PP
+Identification nationale PP
+Code civilité d'exercice
+Libellé civilité d'exercice
+Code civilité
+Libellé civilité
+Nom d'exercice
+Prénom d'exercice
+Code profession
+Libellé profession
+Code catégorie professionnelle
+Libellé catégorie professionnelle
+Code type savoir-faire
+Libellé type savoir-faire
+Code savoir-faire
+Libellé savoir-faire
+Code mode exercice
+Libellé mode exercice
+Numéro SIRET site
+Numéro SIREN site
+Numéro FINESS site
+Numéro FINESS établissement juridique
+Identifiant technique de la structure
+Raison sociale site
+Enseigne commerciale site
+Complément destinataire (coord. structure)
+Complément point géographique (coord. structure)
+Numéro Voie (coord. structure)
+Indice répétition voie (coord. structure)
+Code type de voie (coord. structure)
+Libellé type de voie (coord. structure)
+Libellé Voie (coord. structure)
+Mention distribution (coord. structure)
+Bureau cedex (coord. structure)
+Code postal (coord. structure)
+Code commune (coord. structure)
+Libellé commune (coord. structure)
+Code pays (coord. structure)
+Libellé pays (coord. structure)
+Téléphone (coord. structure)
+Téléphone 2 (coord. structure)
+Télécopie (coord. structure)
+Adresse e-mail (coord. structure)
+Code Département (structure)
+Libellé Département (structure)
+Ancien identifiant de la structure
+Autorité d'enregistrement
+
+# savoir faire
+Type d'identifiant PP
+Identifiant PP
+Identification nationale PP
+Nom d'exercice
+Prénom d'exercice
+Code profession
+Libellé profession
+Code catégorie professionnelle
+Libellé catégorie professionnelle
+Code type savoir-faire
+Libellé type savoir-faire
+Code savoir-faire
+Libellé savoir-faire
+
+# auto exercer
+Type d'identifiant PP
+Identifiant PP
+Identification nationale PP
+Nom d'exercice
+Prénom d'exercice
+Code type diplôme obtenu
+Libellé type diplôme obtenu
+Code diplôme obtenu
+Libellé diplôme obtenu
+Code type autorisation
+Libellé type autorisation
+Code discipline autorisation
+Libellé discipline autorisation
+
+
+# correspondances
+Type de BAL
+Adresse BAL
+Type Identifiant PP
+Identifiant PP
+Identification nationale PP
+Type identifiant structure
+Identification Structure
+Service de rattachement
+Civilité d'exercice
+Nom d'exercice
+Prénom d'exercice
+Catégorie professionnelle
+Libellé de catégorie professionelle
+Code Profession
+Libellé Profession
+Code savoir-faire
+Libellé savoir-faire
+Dématérialisation
+Raison Sociale structure BAL
+Enseigne commerciale structure BAL
+L2COMPLEMENTLOCALISATION structure BAL
+L3COMPLEMENTDISTRIBUTION structure BAL
+L4NUMEROVOIE structure BAL
+L4COMPLEMENTNUMEROVOIE structure BAL
+NL4TYPEVOIE structure BAL
+L4LIBELLEVOIE structure BAL
+L5LIEUDITMENTION structure BAL
+L6LIGNEACHEMINEMENT structure BAL
+Code postal structure BAL
+Département structure BAL
+Pays structure BAL
